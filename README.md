@@ -1,4 +1,4 @@
-Example from Udacity Data Scientist Nanoegree Program
+Example from Udacity Data Scientist Nanodegree Program
 
 ### Table of Contents
 
